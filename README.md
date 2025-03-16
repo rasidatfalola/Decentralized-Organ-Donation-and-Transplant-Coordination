@@ -6,6 +6,7 @@ This revolutionary platform leverages blockchain technology to transform organ d
 
 ## Core Smart Contracts
 
+
 ### 1. Donor Registration Contract
 
 Securely records and verifies donor consent and critical medical information in an immutable, privacy-preserving manner.
