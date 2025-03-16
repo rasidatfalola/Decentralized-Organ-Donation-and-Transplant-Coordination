@@ -7,3 +7,5 @@ Q
 !contracts/matching-algorithm.clar,0/f/0f21d44ef4dd916898c5158d842c005bb3d50ef1
 P
  contracts/recipient-listing.clar,8/0/8055299d8829b7ab6610c81a14f4089bd4d71fbe
+R
+"contracts/transport-logistics.clar,0/1/016eb555d62d90fef18de8fce3b5c7da4056c762
