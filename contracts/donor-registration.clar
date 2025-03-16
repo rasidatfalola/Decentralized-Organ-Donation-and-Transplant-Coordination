@@ -1,4 +1,4 @@
-;; Donor Registration Contract - Simplified
+;; Donor Registration Contract
 ;; Records donor consent and medical information
 
 ;; Define data variables
